@@ -4,7 +4,6 @@ This project is a full-stack web application with a **React** frontend and **Nod
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
 - [Environment Variables](#environment-variables)
 - [Frontend](#frontend)
 - [Backend](#backend)
@@ -20,7 +19,7 @@ This project is a full-stack web application with a **React** frontend and **Nod
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/rasi-kp/Amiyon_Test.git
 
 ## add .env variable
 ```bash
